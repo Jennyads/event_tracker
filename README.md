@@ -6,3 +6,9 @@
 Nós utilizamos o hook useRecoilValue para ter acesso à lista de eventos.
 
 Nós utilizamos o hook useSetRecoilState para adicionar novos itens à lista de eventos.
+
+
+```
+npm install -g json server
+json server --watch db.json -p 8080
+```
