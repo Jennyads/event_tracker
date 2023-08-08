@@ -10,5 +10,5 @@ Nós utilizamos o hook useSetRecoilState para adicionar novos itens à lista de 
 
 ```
 npm install -g json server
-json server --watch db.json -p 8080
+json-server --watch db.json -p 8080
 ```
